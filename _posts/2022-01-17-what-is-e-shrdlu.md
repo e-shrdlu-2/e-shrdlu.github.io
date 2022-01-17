@@ -1,4 +1,4 @@
-# 001 - where does "e-shrdlu" come from?
+## where does "e-shrdlu" come from?
 
 Where does "e-shrdlu" come from? Well originally I wanted "e. shrdlu", but sadly github does not allow dots or spaces in usernames. So I settled for "e-shrdlu"
 
@@ -29,7 +29,7 @@ etaoin had a good run there, and asdf still hasnt even surpassed it at its peak!
 Of course, it doesn't really matter if it was the original or not, the real reason for choosing this name is the simple fact that there was no way I could have gotten "asdf" as a username anywhere without appending a huge number to the end.
 
 ### sources
-(I took all of this from wikipedia so of course it may not be 100% accurate)
-https://en.wikipedia.org/wiki/Linotype_machine
-https://en.wikipedia.org/wiki/Etaoin_shrdlu
-https://en.wikipedia.org/wiki/Letterpress_printing
+(I took all of this from wikipedia so of course it may not be 100% accurate)\
+[https://en.wikipedia.org/wiki/Linotype_machine](https://en.wikipedia.org/wiki/Linotype_machine)\
+[https://en.wikipedia.org/wiki/Etaoin_shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu)\
+[https://en.wikipedia.org/wiki/Letterpress_printing](https://en.wikipedia.org/wiki/Letterpress_printing)
