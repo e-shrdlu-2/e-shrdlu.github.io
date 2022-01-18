@@ -10,3 +10,5 @@ origin:\
 
 
 welcome to my blog, where I post about things. Often related to technology and computers, but not always.
+
+[archive of all posts](https://e-shrdlu.github.io/archive)
